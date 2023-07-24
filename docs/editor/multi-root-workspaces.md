@@ -1,6 +1,6 @@
 ---
 Order: 21
-Area: editor
+Area:editor
 TOCTitle: Multi-root Workspaces
 ContentId: 8d55f6b8-977f-4c26-a888-f3d8d982dd2d
 PageTitle: Multi-root Workspaces in Visual Studio Code
